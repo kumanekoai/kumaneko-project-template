@@ -1,0 +1,2 @@
+# 既知の誤検知や履歴分の漏洩をここに追記する（fingerprint形式）
+# 例: abc1234:path/to/file:rule-name:line-number
